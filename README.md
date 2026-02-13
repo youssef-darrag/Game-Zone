@@ -59,9 +59,6 @@ It features:
 
 5. Run the application.
 
-
-
-
 ---
 
 💡 Purpose
@@ -74,8 +71,6 @@ Demonstrate both client-side and server-side validation.
 
 Improve UX with confirmation alerts.
 
-
-
 ---
 
 🤝 Contributing
@@ -86,15 +81,11 @@ Improve UX with confirmation alerts.
 4. Add tests if applicable
 5. Submit a pull request
 
-
-
 ---
 
 📜 License
 
 This project is licensed under the MIT License.
-
-
 
 ---
 
